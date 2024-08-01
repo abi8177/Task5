@@ -4,9 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://img.freepik.com/premium-photo/abstract-background-dark-blue-with-modern-corporate-concept-bright-blue-business-background_327072-51607.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color:White;
 }
 
 .heading{
